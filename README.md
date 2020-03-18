@@ -1,4 +1,2 @@
 # Square-Party
-My first nice computer game made with unity.
-
-Hope you enjoy it :D
+Simple game made in Unity, currently I am working on multiplayer. Right now you can only try singleplayer.
